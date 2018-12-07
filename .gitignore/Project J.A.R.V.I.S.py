@@ -23,7 +23,7 @@ FACE = '''
         +=======================================+
         |.....JARVIS  ARTIFICIAL INTELLIGENCE...|
         +---------------------------------------+
-        |         Author: Kyle Smith            |
+        |         Author: Josh Colclough        |
         |                                       |
         |              ___   _                  |
         |             / _ \ | |                 |
